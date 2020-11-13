@@ -2,9 +2,7 @@
 
 # Hi, I'm John <img src="https://github.com/johnhayesio/johnhayesio/blob/master/wave.gif" width="30px"> :man_technologist:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnhayesio&count_private=true&show_icons=true&custom_title=GitHub%20Stats)
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johnhayesio)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnhayesio&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=graywhite)
 
 <!--
 **johnhayesio/johnhayesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
