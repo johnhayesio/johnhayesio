@@ -4,6 +4,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnhayesio&count_private=true&show_icons=true&custom_title=GitHub%20Stats&theme=graywhite)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **johnhayesio/johnhayesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
