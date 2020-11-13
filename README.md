@@ -2,6 +2,8 @@
 
 # Hi, I'm John <img src="https://github.com/johnhayesio/johnhayesio/blob/master/wave.gif" width="30px"> :man_technologist:
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johnhayesio&count_private=true)
+
 <!--
 **johnhayesio/johnhayesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
