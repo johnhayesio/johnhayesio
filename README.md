@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Banner](https://p240.p3.n0.cdn.getcloudapp.com/items/NQu16N8x/github.png)
+![Banner](https://p240.p3.n0.cdn.getcloudapp.com/items/Jrug2Ody/readme.png)
 
 <!--
 **johnhayesio/johnhayesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
