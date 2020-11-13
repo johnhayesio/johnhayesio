@@ -1,5 +1,7 @@
 [![Banner](https://p240.p3.n0.cdn.getcloudapp.com/items/Jrug2Ody/readme.png)](https://johnhayes.io)
 
+# Hi, I'm John <img src="https://p240.p3.n0.cdn.getcloudapp.com/items/4guJorr8/wave.gif" width="30px"> :man_technologist:
+
 <!--
 **johnhayesio/johnhayesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
