@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Banner](https://p240.p3.n0.cdn.getcloudapp.com/items/Jrug2Ody/readme.png)
 
 <!--
