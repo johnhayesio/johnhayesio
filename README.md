@@ -2,23 +2,18 @@
 
 # Hi, I'm John <img src="https://github.com/johnhayesio/johnhayesio/blob/master/wave.gif" width="30px"> :man_technologist:
 
-### Weekly Coding Stats
 <details>
   <summary>Github Statistics...</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnhayesio&hide_title=true&theme=graywhite" />
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=johnhayesio&hide_title=true&theme=graywhite" />
+  </p>
 </details>
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   11 hrs 19 mins  █████████▒░░░░░░░░░░░░░░░   37.11 % 
-JavaScript   8 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Markdown     3 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Other        1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-JSON         1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-```
-<!--END_SECTION:waka-->
+<details>
+  <summary>Weekly Coding Stats...</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnhayesio&hide_title=true&theme=graywhite" />
+  </p>
+</details>
 
 <!--
 **johnhayesio/johnhayesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
