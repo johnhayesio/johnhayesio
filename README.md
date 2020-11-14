@@ -3,6 +3,13 @@
 # Hi, I'm John <img src="https://github.com/johnhayesio/johnhayesio/blob/master/wave.gif" width="30px"> :man_technologist:
 
 ### Weekly Coding Stats
+<details>
+  <summary>Github Statistics...</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnhayesio&hide_title=true&theme=graywhite" />
+  </a>
+</details>
+
 <!--START_SECTION:waka-->
 ```text
 TypeScript   11 hrs 19 mins  █████████▒░░░░░░░░░░░░░░░   37.11 % 
