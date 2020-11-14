@@ -8,12 +8,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=johnhayesio&hide_title=true&theme=graywhite" />
   </p>
 </details>
+<p align="center">
 <details>
   <summary>Weekly Coding Stats...</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnhayesio&hide_title=true&layout=compact&theme=graywhite" />
-  </p>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnhayesio&hide_title=true&layout=compact&theme=graywhite" />
 </details>
+</p>
 
 <!--
 **johnhayesio/johnhayesio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
