@@ -5,13 +5,13 @@
 <details>
   <summary>Github Statistics...</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=johnhayesio&hide_title=true&theme=graywhite" />
+    <img src="https://github-readme-stats.vercel.app/api?username=johnhayesio&hide_title=true&theme=gruvbox" />
   </p>
 </details>
 <details>
   <summary>Weekly Coding Stats...</summary>
   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnhayesio&hide_title=true&layout=compact&theme=graywhite" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnhayesio&hide_title=true&layout=compact&theme=gruvbox" />
   </p>
 </details>
 
