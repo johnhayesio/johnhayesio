@@ -11,7 +11,7 @@
 <details>
   <summary>Weekly Coding Stats...</summary>
   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnhayesio&layout=compact&hide_title=true&theme=graywhite" />
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=johnhayesio&hide_title=true" />
   </p>
 </details>
 
