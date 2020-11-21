@@ -1,6 +1,6 @@
 [![Banner](https://github.com/johnhayesio/johnhayesio/blob/master/readme.png)](https://johnhayes.io)
 
-# Hi, I'm John <img src="https://github.com/johnhayesio/johnhayesio/blob/master/wave.gif" width="30px"> :man_technologist: [![Analytics](https://ga-beacon.appspot.com/UA-158277243-2/github.com/johnhayesio/johnhayesio/README.md?pixel)](https://github.com/johnhayesio/johnhayesio)
+# Hi, I'm John <img src="https://github.com/johnhayesio/johnhayesio/blob/master/wave.gif" width="30px"> :man_technologist:
 
 <details>
   <summary>Github Statistics...</summary>
